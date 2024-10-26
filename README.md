@@ -16,21 +16,21 @@
 - Designed and developed new system features, improving user adoption and overall system robustness.
 - Collaborated on user experience improvements, ensuring that scalability goals were met for future growth.
 
-### Senior Software Engineer | Ablaze Labs | Addis Ababa, Ethiopia (12/2023 - 04/2024)
+### Senior Software Engineer | Ablaze Labs | (12/2023 - 04/2024)
 - Designed and implemented a complete referral system for a gaming platform within three days from concept to production.
 - Developed microservices-based applications, integrating **Kafka** and managing databases using **PostgreSQL** with **Prisma ORM**.
 - Conducted code reviews, improving overall performance and stability across the development team.
 
-### Senior Software Engineer | Allenatech Electronics SC | Mekelle, Ethiopia (2019 - 2023)
+### Senior Software Engineer | Allenatech Electronics SC | (2019 - 2023)
 - Spearheaded the development of a **SaaS Shareholders Management Platform (Maley)**, managing complex user and company data.
 - Developed a **core banking solution (Menzo)** using **Java (Spring Boot)**, **MySQL**, and **Angular**, adhering to security and testing best practices.
 - Implemented TDD, ensuring bug-free code and seamless deployment.
 
-### Senior Software Engineer | M-Tech SC | Mekelle, Ethiopia (2019 - 2023)
+### Senior Software Engineer | M-Tech SC | (2019 - 2023)
 - Led the development of a **Citizen Identification System**, ensuring secure data management and role-based access control.
 - Architected microservices-based solutions, managing large datasets securely and efficiently.
 
-### Software Engineering Instructor | Microlink IT and Business College | Mekelle, Ethiopia (2017 - 2021)
+### Software Engineering Instructor | Microlink IT and Business College | (2017 - 2021)
 - Taught core subjects like data structures, OOP, and web development, mentoring the next generation of engineers.
 - Coordinated curriculum development and developed internal solutions, including a college management system.
 
